@@ -1,14 +1,20 @@
 # 📸 [Lenso.ai](https://lenso.ai) Reverse Image Search API examples
 
-This repository provides practical usage examples for the **[Lenso.ai](https://lenso.ai) public API** – a platform for advanced image similarity search based on facial recognition or category-based filtering.
+Lenso.ai provides a powerful reverse image search API. It features simple integration and a variety of tools to help meet your needs, including:
 
----
+- Search by image within specific categories: People, Duplicates & Copyrights, Places, Similar, or Related images
+- Domain filtering: Narrow results by specifying a particular domain.
+- Advanced sorting options: Sort results by best match, worst match, newest, or oldest.
+
+Additionally, you can easily monitor your API usage directly from the lenso.ai dashboard.
+
+For tailored solutions or custom API plans, please contact our support team at contact@lenso.ai.
 
 ## 📌 Table of Contents
 
 - 🔍 Overview
 - 🛡️ Authorization
-- 📡 API Endpoints
+- 📡 Reverse image search API endpoints
   - 👤 Face Search
   - 📂 Category Search
 - ✅ Sample Response
@@ -20,12 +26,12 @@ This repository provides practical usage examples for the **[Lenso.ai](https://l
 
 This project includes:
 
-- Usage examples of the Lenso.ai API  
+- Usage examples of the Lenso.ai reverse image search API  
 - JSON request/response formats  
 - Authorization headers  
 - Supported parameters and error responses  
 
-The API allows developers to send images in base64 format and receive search results based on face similarity or predefined categories such as duplicates or landmarks.
+The API allows developers to send images in base64 format and receive search results based on face similarity or predefined categories such as duplicates or places.
 
 ---
 ## 🛡️ Authorization
@@ -35,7 +41,7 @@ Replace <your_access_token> with your actual access token obtained from lenso.ai
 | `Authorization` | `string` | `Bearer token required for authentication. Format: Bearer <your_access_token>.` |
 
 ---
-## 📡 API Endpoints
+## 📡 Reverse image search API endpoints
 
 ### 👤 Face Search
 
