@@ -2,6 +2,15 @@
   <img src="./images/lenso-text-logo-dark-theme-300.png" alt="Lenso.ai logo" />
 </p>
 
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://lenso.ai">AI Reverse Image Search with lenso.ai. Find places, people, duplicates, and more.</a>
+    </td>
+  </tr>
+</table>
+
+
 # 📸 [Lenso.ai](https://lenso.ai) Reverse Image Search API examples
 
 Lenso.ai provides a powerful reverse image search API. It features simple integration and a variety of tools to help meet your needs, including:
