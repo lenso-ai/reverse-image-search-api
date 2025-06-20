@@ -18,13 +18,12 @@ public class FaceSearchApiExample {
 
         String jsonBody = "{"
                 + "\"image\":\"" + base64Image + "\","
-                + "\"category\":\"duplicates\","
                 + "\"sortType\":\"QUALITY_DESCENDING\","
                 // + "\"domain\":\"\"," - optional doamin filter
                 + "\"page\":1"
                 + "}";
 
-        String response = sendPostRequest("https://api.lenso.ai/search", jsonBody, ACCESS_TOKEN);
+        String response = sendPostRequest("https://api.eyematch.ai/search", jsonBody, ACCESS_TOKEN);
 
         System.out.println("Response from API:");
         System.out.println(response);
