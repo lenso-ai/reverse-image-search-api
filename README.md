@@ -1,6 +1,6 @@
-# 📸 Lenso.ai API Examples
+# 📸 [Lenso.ai](https://lenso.ai) Reverse Image Search API examples
 
-This repository provides practical usage examples for the **Lenso.ai public API** – a platform for advanced image similarity search based on facial recognition or category-based filtering.
+This repository provides practical usage examples for the **[Lenso.ai](https://lenso.ai) public API** – a platform for advanced image similarity search based on facial recognition or category-based filtering.
 
 ---
 
