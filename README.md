@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/lenso-text-logo-light-theme-300.jpg" alt="Lenso.ai logo" />
+  <img src="./images/lenso-text-logo-light-theme-300 (1).png" alt="Lenso.ai logo" />
 </p>
 
 # 📸 [Lenso.ai](https://lenso.ai) Reverse Image Search API examples
