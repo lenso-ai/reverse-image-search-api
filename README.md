@@ -23,6 +23,22 @@ Additionally, you can easily monitor your API usage directly from the lenso.ai d
 
 For tailored solutions or custom API plans, please contact our support team at contact@lenso.ai.
 
+
+
+<div align="center">
+  <a href="https://lenso.ai/en/page/reverse-image-search">Reverse Image Search</a>
+    ·
+   <a href="https://lenso.ai/en/page/face-search">Face Search</a>
+    ·
+   <a href="https://lenso.ai/en/page/copyright-image-search">Copyright Image Search</a>  
+    ·
+    <a href="https://huggingface.co/LensoAI">Hugging Face</a>
+    ·
+    <a href="https://chromewebstore.google.com/detail/lensoai-reverse-image-sea/fdlopgpbkloofphfpbikfcdhfalkmpmp">Chrome Extension </a>  
+</div>
+
+
+
 ## 📌 Table of Contents
 
 - 🔍 Overview
