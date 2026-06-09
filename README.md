@@ -110,8 +110,8 @@ POST https://api.eyematch.ai/search
 | `domain` | `string` | `An optional field specifying the domain of the search` |
 | `page` | `integer` | `The page number for search results. One page have a limit up to 20 results. "multiPage and "page" cannot be null at the same time.` |
 | `multiPage` | `list of integers` | `Returns results from multiple pages. 1 returned page counts as 1 request. 1 page returns up to 20 results. "multiPage and "page"cannot be null at the same time.` |
-| `"domainsToInclude` | `set of string` | `(Optional) Includes results whose source URL or domain contains any of the specified keywords. (Limited to 100)` |
-| `"domainsToExclude` | `set of string` | `(Optional) Excludes results whose source URL or domain contains any of the specified keywords. (Limited to 100)` |
+| `domainsToInclude` | `set of string` | `(Optional) Includes results whose source URL or domain contains any of the specified keywords. (Limited to 100)` |
+| `domainsToExclude` | `set of string` | `(Optional) Excludes results whose source URL or domain contains any of the specified keywords. (Limited to 100)` |
 | `fromDate` | `string` | `(Optional) Returns search results that have been indexed after this date. ISO 8601 [yyyy-MM-dd] ]` |
 | `toDate` | `string` | `(Optional) Returns search results that have been indexed before this date. ISO 8601 [yyyy-MM-dd]` |
 
@@ -148,8 +148,8 @@ POST https://api.lenso.ai/search
 | `category` | `string` | `The category to filter search results. Valid categories are: "duplicates","landmarks","similar","related"` |
 | `page` | `integer` | `The page number for search results. One page have a limit up to 20 results. "multiPage and "page" cannot be null at the same time.` |
 | `multiPage` | `list of integers` | `Returns results from multiple pages. 1 returned page counts as 1 request. 1 page returns up to 20 results. "multiPage and "page"cannot be null at the same time.` |
-| `"domainsToInclude` | `set of string` | `(Optional) Includes results whose source URL or domain contains any of the specified keywords. (Limited to 100)` |
-| `"domainsToExclude` | `set of string` | `(Optional) Excludes results whose source URL or domain contains any of the specified keywords. (Limited to 100)` |
+| `domainsToInclude` | `set of string` | `(Optional) Includes results whose source URL or domain contains any of the specified keywords. (Limited to 100)` |
+| `domainsToExclude` | `set of string` | `(Optional) Excludes results whose source URL or domain contains any of the specified keywords. (Limited to 100)` |
 | `fromDate` | `string` | `(Optional) Returns search results that have been indexed after this date. ISO 8601 [yyyy-MM-dd] ]` |
 | `toDate` | `string` | `(Optional) Returns search results that have been indexed before this date. ISO 8601 [yyyy-MM-dd]` |
 
